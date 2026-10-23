@@ -143,3 +143,9 @@ Kahaduwa, H., et al. (2017). Question Answering System for the Travel Domain. IE
 Leviathan, Y., et al. (2023). Fast Inference from Transformers via Speculative Decoding. ICML.
 
 Meng, Y., et al. (2024). SimPO: Simple Preference Optimization with a Reference-Free Objective. arXiv:2405.14734.
+
+
+**Author**<br>
+Subrota Debnath<br>
+Master of Information Sciences<br>
+Massey University
