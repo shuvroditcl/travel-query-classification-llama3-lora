@@ -117,7 +117,7 @@ travel-query-classification-llama3-lora/
 └── README.md                                        # Project documentation & architectural whitepaper
 ```
 
-## Quickstart
+## Quickstart 
 Launch in Google Colab (Recommended): Click the Open in Colab badge at the top of this README, select a T4 GPU runtime, and execute the cells sequentially.
 
 Local Execution:
