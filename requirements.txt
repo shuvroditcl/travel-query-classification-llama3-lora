@@ -1,0 +1,16 @@
+unsloth
+unsloth_zoo
+torch>=2.4.0,<2.15.0
+transformers>=4.52.4,<=5.17.0
+peft>=0.18.0
+accelerate>=0.34.1
+bitsandbytes>=0.45.5
+trl>=0.18.2,<=1.13.0
+datasets>=3.4.1,<5.0.0
+scikit-learn>=1.6.0
+pandas==2.2.3
+numpy<2.3
+tqdm
+xformers>=0.0.27.post2
+matplotlib
+seaborn
